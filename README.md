@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Guilherme15051
-- 👀 I’m interested in trabalhar como DBA (Administrador de Banco de Dados)  ...
-- 🌱 I’m currently learning
-- C++
+- 👀 I’m interested in trabalhar como DBA (Administrador de Banco de Dados)
+- python
+- java
+- Power BI
+- SQL 
 - Infraestrutura
 - Modelagem de processos
 - Aquitetura de computadores
